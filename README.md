@@ -3,7 +3,7 @@
 ### I study programming as a hobby
 
 
-### Languages I currently speak:
+### Programming languages I currently use:
 
 * Python3
 
