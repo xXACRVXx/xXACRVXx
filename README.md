@@ -1,5 +1,9 @@
 # ¡Hola! Soy xXACRVXx 👋
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/xXACRVXx/web_xxacrvxx)
+[![Followers](https://img.shields.io/github/followers/xXACRVXx?style=social)](https://github.com/xXACRVXx?tab=followers)
+
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador **autodidacta** de Cuba, con la programación como principal hobby.  Actualmente trabajo en la industria metalúrgica, pero dedico mi tiempo libre a explorar y aprender nuevas tecnologías de desarrollo de software.
 
 ## ¿Qué hago?
@@ -13,11 +17,13 @@ Mi interés principal se centra en el **backend**, especialmente en el diseño y
 *   **Automatización con Scripts:**  Creación de scripts para automatizar tareas y flujos de trabajo.
 *   **Desarrollo de Bots para Telegram:**  Implementación de bots con diversas funcionalidades.
 
+## Habilidades y Tecnologías
+
+[![My Skills](https://skillicons.dev/icons?i=python,flask,postgresql,docker,mysql,sqlite,javascript,go,c,html,css,git,github,linkedin,telegram)](https://skillicons.dev)
+
 **Aprendiendo Actualmente:**
 
-*   **Go:**  Explorando su potencial para backend y sistemas de alto rendimiento.
-*   **C:**  Profundizando en programación de sistemas y bajo nivel.
-*   **JavaScript:**  Para ampliar mis habilidades en desarrollo web frontend y full-stack.
+*   Go, C, JavaScript
 
 ## Proyectos Destacados
 
@@ -31,6 +37,14 @@ Aquí puedes ver algunos de mis proyectos open-source más relevantes en GitHub:
 *   **[socket_server_http](https://github.com/xXACRVXx/socket_server_http):**  Servidor HTTP sencillo en Python con sockets para entender protocolos web.
 
 [**Ver todos mis repositorios →**](https://github.com/xXACRVXx?tab=repositories)
+
+## Logros de GitHub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xXACRVXx&theme=github-dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Actividad Reciente
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xXACRVXx&theme=github-dark)](https://github.com/ashutosh1919/github-readme-activity-graph)
 
 ## Estadísticas de GitHub
 
