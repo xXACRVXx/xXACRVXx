@@ -16,7 +16,7 @@ Mi enfoque principal se centra en el **backend**, donde me interesa la creación
 *   **Consumo e Integración de APIs:**  Utilización de APIs de terceros y desarrollo de APIs personalizadas para la integración de sistemas y servicios web.
 *   **Automatización con Scripts:**  Creación de scripts para automatizar tareas de desarrollo y administración de sistemas.
 *   **Bots de Telegram:**  Desarrollo de bots en Python para Telegram como proyectos personales y para aprender.
-*   **Administración de Servidores Linux:**  Experiencia gestionando **mi VPS** y redes locales con **Ubuntu Server**, **Debian**, **Arch Linux** y **Linux Mint**, incluyendo la configuración de servicios y despliegue de aplicaciones.
+*   **Administración de Servidores Linux:**  Experiencia gestionando **VPS** y redes locales con **Ubuntu Server**, **Debian**, **Arch Linux** y **Linux Mint**, incluyendo la configuración de servicios y despliegue de aplicaciones.
 *   **Servidores Web:** Configuración básica de **Nginx** como servidor web y proxy inverso para mis despliegues.
 
 ## Habilidades y Tecnologías
