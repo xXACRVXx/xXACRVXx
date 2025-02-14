@@ -1,10 +1,10 @@
 # ¡Hola! Soy xXACRVXx 👋
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/xXACRVXx/web_xxacrvxx)
+[![Followers](https://img.shields.io/github/followers/xXACRVXx?style=social)](https://github.com/xXACRVXx?tab=followers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/xXACRVxx/web_xxacrvxx)
-[![Followers](https://img.shields.io/badge/GitHub-Followers-blue?style=social)](https://github.com/xXACRVXx?tab=followers)
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador **autodidacta** de Cuba, con la programación como principal hobby y una **gran pasión por Linux y la administración de servidores**.  Actualmente trabajo en la industria metalúrgica, pero en mi tiempo libre, me dedico a explorar y aprender nuevas tecnologías de desarrollo de software y a construir mis propios proyectos.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador **autodidacta** de Cuba, con la programación como principal hobby y un **apasionado por Linux, la administración de servidores y el open-source**.  Actualmente trabajo en la industria metalúrgica, pero en mi tiempo libre, me dedico a explorar y aprender nuevas tecnologías de desarrollo de software y a construir mis propios proyectos.
 
 ## ¿Qué hago?
 
@@ -13,7 +13,7 @@ Mi enfoque principal se centra en el **backend**, donde me interesa la creación
 *   **Python 3:** Lenguaje principal para desarrollo general y backend.
 *   **Desarrollo Web Backend:**  Creación de aplicaciones web y APIs RESTful con **Flask** y **FastAPI**.
 *   **Bases de Datos:**  Experiencia práctica con **PostgreSQL**, **MySQL** y **SQLite** para la implementación y gestión de bases de datos en mis proyectos.
-*   **Consumo e Integración de APIs:**  Utilización de APIs de terceros y desarrollo de APIs personalizadas para conectar mis aplicaciones y servicios web.
+*   **Consumo e Integración de APIs:**  Utilización de APIs de terceros y desarrollo de APIs personalizadas para la integración de sistemas y servicios web.
 *   **Automatización con Scripts:**  Creación de scripts para automatizar tareas de desarrollo y administración de sistemas.
 *   **Bots de Telegram:**  Desarrollo de bots en Python para Telegram como proyectos personales y para aprender.
 *   **Administración de Servidores Linux:**  Experiencia gestionando **mi VPS** y redes locales con **Ubuntu Server**, **Debian**, **Arch Linux** y **Linux Mint**, incluyendo la configuración de servicios y despliegue de aplicaciones.
@@ -21,7 +21,7 @@ Mi enfoque principal se centra en el **backend**, donde me interesa la creación
 
 ## Habilidades y Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,postgresql,docker,mysql,sqlite,javascript,go,c,linux,nginx,html,css,git,github,linkedin,telegram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,postgresql,docker,mysql,sqlite,bash,html,css,git,github,telegram)](https://skillicons.dev)
 
 **Aprendiendo Actualmente:**
 
@@ -42,7 +42,7 @@ Aquí puedes ver algunos de mis proyectos open-source más relevantes en GitHub:
 
 ## Logros de GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xXACRVXx&theme=github-dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xXACRVXx&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Actividad Reciente
 
