@@ -33,9 +33,9 @@ Aquí puedes ver algunos de mis proyectos open-source más relevantes en GitHub:
 
 *   **[web_xxacrvxx](https://github.com/xXACRVXx/web_xxacrvxx):**  Plataforma web personal multifuncional con Flask. Incluye gestión de archivos en la nube, blog, sistema de comentarios, autenticación de usuarios y **ejemplos de despliegue con Docker Compose para un VPS**. Un proyecto para aprender desarrollo web en todas sus capas, desde el frontend hasta el backend y el despliegue.
 *   **[bot_deseo](https://github.com/xXACRVXx/bot_deseo):**  Bot de Telegram en Python para gestión de contenido en grupos y canales, y recepción de sugerencias de usuarios.
-*   **[etecsa_search_bot](https://github.com/xXACRVXx/etecsa_search_bot):**  Bot de Telegram para buscar información en la base de datos telefónica de ETECSA (Cuba) a través de una API.
+*   **[etecsa_search_bot](https://github.com/xXACRVXx/etecsa_search_bot):**  Bot de Telegram para buscar información en la base de datos telefónica de ETECSA (Cuba) a través de una API publica.
 *   **[BotDePruebas](https://github.com/xXACRVXx/BotDePruebas):**  Bot de Telegram experimental con ejecución de comandos en el sistema operativo (Termux) para automatización personal.
-*   **[chat_tcp_server_and_client](https://github.com/xXACRVXx/chat_tcp_server_and_client):**  Chat de terminal TCP básico en Python, un proyecto de aprendizaje sobre sockets y comunicación en red.
+*   **[chat_tcp_server_and_client](https://github.com/xXACRVXx/chat_tcp_server_and_client):**  Chat de terminal básico basado en sockets TCP de Python, un proyecto de aprendizaje sobre sockets y comunicación en red.
 *   **[socket_server_http](https://github.com/xXACRVXx/socket_server_http):**  Servidor HTTP sencillo en Python con sockets, para entender los protocolos web desde cero.
 
 [**Ver todos mis repositorios →**](https://github.com/xXACRVXx?tab=repositories)
