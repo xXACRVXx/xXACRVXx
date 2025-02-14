@@ -8,7 +8,7 @@
 
 ## ¿Qué hago?
 
-Mi enfoque principal se centra en el **backend**, donde me interesa la creación de **APIs y servicios web funcionales y prácticos**, y la **gestión de mi propia infraestructura de servidores a pequeña escala**.  Aunque mi trayectoria en programación comenzó en 2022, he adquirido experiencia en:
+Mi enfoque principal se centra en el **backend**, donde me interesa la creación de **APIs y servicios web funcionales y prácticos**, y la **gestión de mi propia infraestructura de servidores a pequeña escala**.  Aunque mi trayectoria en programación comenzó en 2020, he adquirido experiencia en:
 
 *   **Python 3:** Lenguaje principal para desarrollo general y backend.
 *   **Desarrollo Web Backend:**  Creación de aplicaciones web y APIs RESTful con **Flask** y **FastAPI**.
