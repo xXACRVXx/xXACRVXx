@@ -52,7 +52,7 @@ Aquí puedes ver algunos de mis proyectos open-source más relevantes en GitHub:
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xXACRVXx&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=xXACRVXx&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
