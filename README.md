@@ -25,7 +25,7 @@ Mi enfoque principal se centra en el **backend**, donde me interesa la creación
 
 **Aprendiendo Actualmente:**
 
-*   Go, C, JavaScript (profundizando para desarrollo full-stack)
+*   Go, C, JavaScript (para mejorar mi desarrollo full-stack)
 
 ## Proyectos Destacados
 
